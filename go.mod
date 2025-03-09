@@ -1,4 +1,4 @@
-module main
+module github.com/uhAlexz/Icon-Changer
 
 go 1.24.1
 
