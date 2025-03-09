@@ -17,8 +17,8 @@ func main() {
 	gin.SetMode(gin.ReleaseMode)
 	r := gin.Default()
 	r.GET("/process", processImageHandler)
-	fmt.Println("Server running on :8080")
-	r.Run(":8080")
+	fmt.Println("Server running on :32015")
+	r.Run(":32015")
 }
 
 // Handler function
