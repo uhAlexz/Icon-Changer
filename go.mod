@@ -1,6 +1,6 @@
 module github.com/uhAlexz/Icon-Changer
 
-go 1.24.1
+go 1.23.7
 
 require (
 	github.com/fogleman/gg v1.3.0
